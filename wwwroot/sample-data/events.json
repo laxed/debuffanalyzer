@@ -1,0 +1,2124 @@
+{
+  "events": [
+    {
+      "timestamp": 338942,
+      "type": "refreshdebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 38,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      }
+    },
+    {
+      "timestamp": 339327,
+      "type": "removedebuff",
+      "sourceID": 46,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of Recklessness",
+        "guid": 11717,
+        "type": 32,
+        "abilityIcon": "spell_shadow_unholystrength.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 339327,
+      "type": "applydebuff",
+      "sourceID": 46,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of the Elements",
+        "guid": 11722,
+        "type": 32,
+        "abilityIcon": "spell_shadow_chilltouch.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 339728,
+      "type": "removedebuff",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Cone of Cold",
+        "guid": 10161,
+        "type": 16,
+        "abilityIcon": "spell_frost_glacier.jpg"
+      }
+    },
+    {
+      "timestamp": 339728,
+      "type": "applydebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Hamstring",
+        "guid": 7373,
+        "type": 1,
+        "abilityIcon": "ability_shockwave.jpg"
+      }
+    },
+    {
+      "timestamp": 340150,
+      "type": "applydebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 75,
+      "targetInstance": 43,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Demoralizing Shout",
+        "guid": 11556,
+        "type": 1,
+        "abilityIcon": "ability_warrior_warcry.jpg"
+      }
+    },
+    {
+      "timestamp": 340150,
+      "type": "applydebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Demoralizing Shout",
+        "guid": 11556,
+        "type": 1,
+        "abilityIcon": "ability_warrior_warcry.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 340150,
+      "type": "applydebuff",
+      "sourceID": 34,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Faerie Fire (Feral)",
+        "guid": 17392,
+        "type": 8,
+        "abilityIcon": "spell_nature_faeriefire.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 340150,
+      "type": "removedebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 21992,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      }
+    },
+    {
+      "timestamp": 340150,
+      "type": "removedebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 27648,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      }
+    },
+    {
+      "timestamp": 340150,
+      "type": "removedebuff",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      }
+    },
+    {
+      "timestamp": 340150,
+      "type": "removedebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 79,
+      "targetInstance": 39,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Hamstring",
+        "guid": 7373,
+        "type": 1,
+        "abilityIcon": "ability_shockwave.jpg"
+      }
+    },
+    {
+      "timestamp": 340946,
+      "type": "applydebuffstack",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 15258,
+        "type": 32,
+        "abilityIcon": "spell_shadow_blackplague.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 341761,
+      "type": "applydebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 341761,
+      "type": "applydebuffstack",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 342572,
+      "type": "applydebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 342599,
+      "type": "applydebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 342599,
+      "type": "applydebuffstack",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 15258,
+        "type": 32,
+        "abilityIcon": "spell_shadow_blackplague.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 342973,
+      "type": "refreshdebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 343418,
+      "type": "applydebuffstack",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 343836,
+      "type": "applydebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of Recklessness",
+        "guid": 11717,
+        "type": 32,
+        "abilityIcon": "spell_shadow_unholystrength.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 343836,
+      "type": "applydebuffstack",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "stack": 4,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344167,
+      "type": "applydebuff",
+      "sourceID": 45,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344194,
+      "type": "applydebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344194,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344605,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344605,
+      "type": "applydebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344605,
+      "type": "refreshdebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344605,
+      "type": "applydebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344605,
+      "type": "applydebuff",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 344614,
+      "type": "applydebuffstack",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "stack": 5,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345385,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345385,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "removedebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "applydebuff",
+      "sourceID": 46,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "removedebuff",
+      "sourceID": 46,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "removedebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "applydebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "applydebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "applydebuffstack",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 15258,
+        "type": 32,
+        "abilityIcon": "spell_shadow_blackplague.jpg"
+      },
+      "stack": 4,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "applydebuff",
+      "sourceID": 16,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Stormstrike",
+        "guid": 17364,
+        "type": 1,
+        "abilityIcon": "ability_shaman_stormstrike.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 345413,
+      "type": "removedebuffstack",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 346242,
+      "type": "refreshdebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 347012,
+      "type": "applydebuffstack",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 347076,
+      "type": "removedebuffstack",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 347503,
+      "type": "removedebuffstack",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 347833,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 348169,
+      "type": "removedebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 348248,
+      "type": "refreshdebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 348248,
+      "type": "refreshdebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 348248,
+      "type": "applydebuff",
+      "sourceID": 45,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349477,
+      "type": "applydebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349477,
+      "type": "removedebuffstack",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349477,
+      "type": "applydebuffstack",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 15258,
+        "type": 32,
+        "abilityIcon": "spell_shadow_blackplague.jpg"
+      },
+      "stack": 5,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349477,
+      "type": "removedebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349477,
+      "type": "applydebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349571,
+      "type": "removedebuffstack",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349873,
+      "type": "refreshdebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349873,
+      "type": "applydebuffstack",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349880,
+      "type": "removedebuffstack",
+      "sourceID": 16,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Stormstrike",
+        "guid": 17364,
+        "type": 1,
+        "abilityIcon": "ability_shaman_stormstrike.jpg"
+      },
+      "stack": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 349913,
+      "type": "removedebuff",
+      "sourceID": 16,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Stormstrike",
+        "guid": 17364,
+        "type": 1,
+        "abilityIcon": "ability_shaman_stormstrike.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350257,
+      "type": "refreshdebuff",
+      "sourceID": 45,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350257,
+      "type": "removedebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350257,
+      "type": "applydebuff",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350680,
+      "type": "applydebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350680,
+      "type": "refreshdebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350680,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 350724,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 351088,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 351431,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 351474,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352094,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352297,
+      "type": "applydebuffstack",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "stack": 4,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352334,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352334,
+      "type": "applydebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352505,
+      "type": "removedebuff",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352699,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 352699,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353106,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353106,
+      "type": "applydebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353106,
+      "type": "refreshdebuff",
+      "sourceID": 45,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353106,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353505,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353960,
+      "type": "removedebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353960,
+      "type": "applydebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 21992,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353960,
+      "type": "removedebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 353960,
+      "type": "applydebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 27648,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 354310,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 354333,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 354740,
+      "type": "applydebuffstack",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "stack": 5,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 355313,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 355524,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 355555,
+      "type": "refreshdebuff",
+      "sourceID": 28,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 355555,
+      "type": "applydebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 355957,
+      "type": "refreshdebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 356365,
+      "type": "removedebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 356365,
+      "type": "applydebuff",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 356451,
+      "type": "removedebuffstack",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 3,
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 356771,
+      "type": "refreshdebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 21992,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 356771,
+      "type": "refreshdebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 27648,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357100,
+      "type": "removedebuffstack",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 2,
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357177,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357193,
+      "type": "removedebuffstack",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 1,
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357193,
+      "type": "removedebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357193,
+      "type": "applydebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357534,
+      "type": "removedebuff",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357562,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357562,
+      "type": "refreshdebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357562,
+      "type": "applydebuff",
+      "sourceID": 38,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357604,
+      "type": "removedebuff",
+      "sourceID": 31,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 357604,
+      "type": "applydebuff",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358055,
+      "type": "refreshdebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358068,
+      "type": "removedebuff",
+      "sourceID": 44,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358068,
+      "type": "applydebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadowburn",
+        "guid": 18871,
+        "type": 32,
+        "abilityIcon": "spell_shadow_scourgebuild.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358068,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 3,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358115,
+      "type": "refreshdebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 21992,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358115,
+      "type": "refreshdebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 27648,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358198,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 2,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358378,
+      "type": "refreshdebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358434,
+      "type": "removedebuff",
+      "sourceID": 33,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Deep Wound",
+        "guid": 12721,
+        "type": 1,
+        "abilityIcon": "ability_backstab.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358434,
+      "type": "applydebuff",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadowburn",
+        "guid": 18871,
+        "type": 32,
+        "abilityIcon": "spell_shadow_scourgebuild.jpg"
+      },
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358434,
+      "type": "removedebuffstack",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "stack": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of Shadow",
+        "guid": 17937,
+        "type": 32,
+        "abilityIcon": "spell_shadow_curseofachimonde.jpg"
+      },
+      "sourceMarker": 1,
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 46,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of the Elements",
+        "guid": 11722,
+        "type": 32,
+        "abilityIcon": "spell_shadow_chilltouch.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 42,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Hunter's Mark",
+        "guid": 14325,
+        "type": 64,
+        "abilityIcon": "ability_hunter_snipershot.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Word: Pain",
+        "guid": 10894,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowwordpain.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 15258,
+        "type": 32,
+        "abilityIcon": "spell_shadow_blackplague.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Demoralizing Shout",
+        "guid": 11556,
+        "type": 1,
+        "abilityIcon": "ability_warrior_warcry.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 34,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Faerie Fire (Feral)",
+        "guid": 17392,
+        "type": 8,
+        "abilityIcon": "spell_nature_faeriefire.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 27,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Sunder Armor",
+        "guid": 11597,
+        "type": 1,
+        "abilityIcon": "ability_warrior_sunder.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 27648,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Curse of Recklessness",
+        "guid": 11717,
+        "type": 32,
+        "abilityIcon": "spell_shadow_unholystrength.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 26,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Thunderfury",
+        "guid": 21992,
+        "type": 8,
+        "abilityIcon": "spell_nature_cyclone.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 35,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Mind Flay",
+        "guid": 18807,
+        "type": 32,
+        "abilityIcon": "spell_shadow_siphonmana.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 29,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadow Vulnerability",
+        "guid": 17800,
+        "type": 32,
+        "abilityIcon": "spell_shadow_shadowbolt.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 358771,
+      "type": "removedebuff",
+      "sourceID": 20,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Winter's Chill",
+        "guid": 12579,
+        "type": 16,
+        "abilityIcon": "spell_frost_chillingblast.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 359173,
+      "type": "removedebuff",
+      "sourceID": 18,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadowburn",
+        "guid": 18871,
+        "type": 32,
+        "abilityIcon": "spell_shadow_scourgebuild.jpg"
+      },
+      "targetMarker": 8
+    },
+    {
+      "timestamp": 359173,
+      "type": "removedebuff",
+      "sourceID": 23,
+      "sourceIsFriendly": true,
+      "targetID": 54,
+      "targetIsFriendly": false,
+      "ability": {
+        "name": "Shadowburn",
+        "guid": 18871,
+        "type": 32,
+        "abilityIcon": "spell_shadow_scourgebuild.jpg"
+      },
+      "sourceMarker": 1,
+      "targetMarker": 8
+    }
+  ]
+}

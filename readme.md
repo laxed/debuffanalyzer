@@ -1,4 +1,4 @@
-# DebuffAnalyzer
+# Debuff Analyzer
 
 Analyzes logs from https://classic.warcraftlogs.com for events where one debuff pushes off another debuff because of the debuff limit in WoW Classic.
 
